@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33ea2133c4072fe4395c7f2790c9b714, type: 3}
+  m_Name: JumpCostUpgrade
+  m_EditorClassIdentifier: 
+  <CardColor>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+  <Description>k__BackingField: Jump cost - 1
+  <Icon>k__BackingField: {fileID: 21300000, guid: 451383ee3aa0e0e438c05e45f97a5462, type: 3}
+  <CardType>k__BackingField: 8
+  jumpTileCostDecrement: -1
+  targetData: {fileID: 11400000, guid: ba501de9bf0d61c409fd06f44d01a23f, type: 2}

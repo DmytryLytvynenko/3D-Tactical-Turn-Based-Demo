@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b07e40c30a0fad349ba636cea7a003c4, type: 3}
+  m_Name: Kick
+  m_EditorClassIdentifier: 
+  <skillName>k__BackingField: 2
+  <_SkillData>k__BackingField: {fileID: 11400000, guid: 79adaf0c6edbe604ab8dd4a463f8f15d, type: 2}
+  <skillAgent>k__BackingField: {fileID: 0}
+  tileMask:
+    serializedVersion: 2
+    m_Bits: 64
+  VFX: {fileID: 6411107592554504516, guid: b8140e66fe02f714abc4ccafb3e54c6f, type: 3}

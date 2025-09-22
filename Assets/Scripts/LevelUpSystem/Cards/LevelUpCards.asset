@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83ce788e219f2ab41befbc5d1e154233, type: 3}
+  m_Name: LevelUpCards
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: d7f679e6c208b0b49aa069eb1a081608, type: 2}
+  - {fileID: 11400000, guid: a1a9be9251ed4684a8baf11299dd32e6, type: 2}
+  - {fileID: 11400000, guid: 184a821176ef13d4d83e484073a2d973, type: 2}
+  - {fileID: 11400000, guid: ec08183480574e8428cf8329eab91532, type: 2}
+  - {fileID: 11400000, guid: 98a2df008293eda4c88eb09e466c333b, type: 2}
+  - {fileID: 11400000, guid: ac054fa52e8af1d4db8fe6c610342656, type: 2}
+  defaultCards:
+  - {fileID: 11400000, guid: d7f679e6c208b0b49aa069eb1a081608, type: 2}
+  - {fileID: 11400000, guid: 3b37f7739416a354a8237707230a029f, type: 2}
+  - {fileID: 11400000, guid: 7daed069480c6784e9c2da045e61f86f, type: 2}
+  - {fileID: 11400000, guid: a1a9be9251ed4684a8baf11299dd32e6, type: 2}
+  - {fileID: 11400000, guid: 184a821176ef13d4d83e484073a2d973, type: 2}
+  - {fileID: 11400000, guid: ec08183480574e8428cf8329eab91532, type: 2}
+  - {fileID: 11400000, guid: 98a2df008293eda4c88eb09e466c333b, type: 2}
+  - {fileID: 11400000, guid: ac054fa52e8af1d4db8fe6c610342656, type: 2}
+  - {fileID: 11400000, guid: bc342d048c679364881b54edffe13221, type: 2}
+  jumpCards:
+  - {fileID: 11400000, guid: 5bbcc1f4a94954d41a98e46e43785f72, type: 2}
+  - {fileID: 11400000, guid: 0c623b27e3272da478d0fa12cd252d98, type: 2}
+  - {fileID: 11400000, guid: 552166f1edc39914d80946887e6f4c72, type: 2}
+  kickCards:
+  - {fileID: 11400000, guid: d7d78f7a53db02c4791943eaff1ec6bc, type: 2}
+  - {fileID: 11400000, guid: 8ad504d0788b3674fb27ed6e43f4a12d, type: 2}

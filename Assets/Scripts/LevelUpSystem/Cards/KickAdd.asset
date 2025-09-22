@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 430c8a1103df638459810f86538ad4c1, type: 3}
+  m_Name: KickAdd
+  m_EditorClassIdentifier: 
+  <CardColor>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+  <Description>k__BackingField: Adds kick skill
+  <Icon>k__BackingField: {fileID: 21300054, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+  <CardType>k__BackingField: 10
+  kick: {fileID: 11400000, guid: 2040768dcbcb4154e9e5949670888170, type: 2}

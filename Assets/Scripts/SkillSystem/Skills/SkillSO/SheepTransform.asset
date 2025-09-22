@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2d1ae7c8b4d99e47a21e76864389d8c, type: 3}
+  m_Name: SheepTransform
+  m_EditorClassIdentifier: 
+  <skillName>k__BackingField: 5
+  <_SkillData>k__BackingField: {fileID: 11400000, guid: a9352a9ea589e324bbb27613835249d7, type: 2}
+  <skillAgent>k__BackingField: {fileID: 0}
+  VFX: {fileID: 8599281674522473848, guid: f6e01418da053904489ce6a5503ca4b4, type: 3}
+  Sheep: {fileID: 1480433786650015018, guid: 32d74bc79fc8037489e0402eb48beb30, type: 3}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f422ba19980d12b4f833bb6f2bf6a17a, type: 3}
+  m_Name: Archer
+  m_EditorClassIdentifier: 
+  <MaxActionPoints>k__BackingField: 3
+  <DetectPlayerRadius>k__BackingField: 4.02
+  <AttackRadius>k__BackingField: 2.05
+  <WalkingRadius>k__BackingField: 3
+  <ChaseTurns>k__BackingField: 0
+  <ExpiriencePoints>k__BackingField: 0
+  <EnemyMask>k__BackingField:
+    serializedVersion: 2
+    m_Bits: 0
+  defaultMaxActionPoints: 2
+  defaultDetectPlayerRadius: 4.02
+  defaultAttackRadius: 2.05
+  defaultWalkingRadius: 3
+  defaultChaseTurns: 0
+  defaultExpiriencePoints: 0
+  defaultEnemyMask:
+    serializedVersion: 2
+    m_Bits: 0
