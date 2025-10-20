@@ -47,7 +47,7 @@ It’s a sandbox-style prototype that showcases gameplay systems typical for tur
 ## Video Demos
 
 - [Main Gameplay Demo](https://youtu.be/_jFIeJNdA7M)  
-- [Additional Features](https://youtu.be/04SHf5_Pkho)  
+- [Additional Features Demo](https://youtu.be/04SHf5_Pkho)  
 
 ---
 
